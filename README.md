@@ -1,2 +1,2 @@
-# Loja-Virtual-Java-Puro-Simples
+# Loja-Virtual-JavaPuro-Simples
 Java/Html/CSS
